@@ -1,0 +1,18 @@
+[package]
+name = "forward-iter"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["A4-Tacks <wdsjxhno1001@163.com>"]
+keywords = ["iterator", "forward", "extension", "adapter"]
+categories = ["no-std"]
+description = "Ensure that side effects in iterators always run forward"
+
+license = "MIT"
+repository = "https://github.com/A4-Tacks/forward-iter-rs"
+
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
